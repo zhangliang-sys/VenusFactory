@@ -126,7 +126,7 @@ def main():
     parser.add_argument('--output_scores_folder', default=None, type=str, help='Name of folder to write model scores to')
     parser.add_argument('--indel_mode', action='store_true', help='Whether to score sequences with insertions and deletions')
     parser.add_argument('--fitness_computation_mode', default="masked_marginals", type=str, help='Fitness computtation mode [masked_marginals|pseudo_likelihood]')
-    parser.add_argument('--performance_file', default='CARP_performance.csv', type=str, help='Name of folder to write model scores to')
+    # parser.add_argument('--performance_file', default='CARP_performance.csv', type=str, help='Name of folder to write model scores to')
     args = parser.parse_args()
 
     model, tokenizer = load_model_and_alphabet(args.model_name, args.model_path)
@@ -164,13 +164,13 @@ def main():
 
     DMS_data[args.model_name+'_score']=model_scores
     DMS_data[['mutant',args.model_name+'_score','DMS_score']].to_csv(scoring_filename, index=False)
-    spearman, _ = spearmanr(DMS_data[args.model_name+'_score'], DMS_data['DMS_score'])
+    # spearman, _ = spearmanr(DMS_data[args.model_name+'_score'], DMS_data['DMS_score'])
 
-    if not os.path.exists(args.performance_file) or os.stat(args.performance_file).st_size==0:
-        with open(args.performance_file,"w") as performance_file:
-            performance_file.write("DMS_id,spearman\n")    
-    with open(args.performance_file, "a") as performance_file:
-        performance_file.write(",".join([DMS_id,str(spearman)])+"\n")
+    # if not os.path.exists(args.performance_file) or os.stat(args.performance_file).st_size==0:
+    #     with open(args.performance_file,"w") as performance_file:
+    #         performance_file.write("DMS_id,spearman\n")    
+    # with open(args.performance_file, "a") as performance_file:
+    #     performance_file.write(",".join([DMS_id,str(spearman)])+"\n")
 
 if __name__ == '__main__':
     main()
