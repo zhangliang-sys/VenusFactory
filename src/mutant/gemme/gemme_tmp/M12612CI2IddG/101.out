@@ -1,0 +1,318 @@
+***** Format Files ******
+copy file:/home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101.pdb
+***** End Format Files ******
+***** JET analysis ******
+Alignment file:/home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_A.fasta
+Analysis of sequence: A
+format ok
+Selected 3686 sequences before filtering
+Filtering sequences (Iteration 1):
+  -Identity: Removed 0 seqs
+  -Redundancy: Removed 254 seqs
+  -Similar names: Removed 67 seqs
+  -Gaps: Removed 0 seqs
+  -Length: Removed 0 seqs
+  -EValue: Removed 0 seqs
+  -CPU Load: Removed 1 seqs
+Selected 3364 after filtering
+Filtering sequences (Iteration 2):
+  -Identity: Removed 378 seqs
+  -Redundancy: Removed 0 seqs
+  -Similar names: Removed 0 seqs
+  -Gaps: Removed 0 seqs
+  -Length: Removed 0 seqs
+  -EValue: Removed 0 seqs
+  -CPU Load: Removed 0 seqs
+Selected 2986 after filtering
+Nb alignments:50 Nb sequences:50
+Final iterated blast partition:2767 189 11 19
+proportion=0.5
+selected partition: 18 18 5 9
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_0.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_0.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_1.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_1.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_2.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_2.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_3.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_3.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_4.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_4.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_5.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_5.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_6.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_6.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_7.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_7.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_8.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_8.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_9.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_9.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_10.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_10.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_11.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_11.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_12.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_12.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_13.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_13.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_14.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_14.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_15.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_15.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_16.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_16.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_17.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_17.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_18.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_18.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_19.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_19.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_20.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_20.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_21.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_21.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_22.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_22.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_23.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_23.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_24.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_24.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_25.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_25.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_26.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_26.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_27.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_27.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_28.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_28.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_29.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_29.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_30.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_30.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_31.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_31.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_32.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_32.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_33.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_33.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_34.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_34.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_35.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_35.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_36.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_36.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_37.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_37.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_38.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_38.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_39.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_39.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_40.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_40.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_41.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_41.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_42.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_42.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_43.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_43.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_44.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_44.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_45.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_45.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_46.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_46.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_47.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_47.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_48.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_48.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_49.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_49.aln
+Exit value: 0
+
+
+***** End JET analysis ******
+***** JET analysis ******
+Alignment file:/home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_A.fasta
+Analysis of sequence: A
+format ok
+Selected 2986 sequences before filtering
+Filtering sequences (Iteration 1):
+  -Identity: Removed 0 seqs
+  -Redundancy: Removed 0 seqs
+  -Similar names: Removed 0 seqs
+  -Gaps: Removed 0 seqs
+  -Length: Removed 0 seqs
+  -EValue: Removed 0 seqs
+  -CPU Load: Removed 0 seqs
+Selected 2986 after filtering
+Filtering sequences (Iteration 2):
+  -Identity: Removed 0 seqs
+  -Redundancy: Removed 0 seqs
+  -Similar names: Removed 0 seqs
+  -Gaps: Removed 0 seqs
+  -Length: Removed 0 seqs
+  -EValue: Removed 0 seqs
+  -CPU Load: Removed 0 seqs
+Selected 2986 after filtering
+Nb alignments:50 Nb sequences:50
+Final iterated blast partition:2767 189 11 19
+proportion=0.5
+selected partition: 18 18 5 9
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_0.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_0.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_1.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_1.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_2.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_2.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_3.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_3.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_4.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_4.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_5.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_5.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_6.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_6.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_7.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_7.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_8.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_8.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_9.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_9.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_10.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_10.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_11.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_11.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_12.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_12.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_13.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_13.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_14.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_14.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_15.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_15.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_16.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_16.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_17.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_17.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_18.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_18.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_19.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_19.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_20.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_20.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_21.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_21.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_22.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_22.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_23.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_23.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_24.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_24.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_25.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_25.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_26.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_26.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_27.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_27.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_28.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_28.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_29.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_29.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_30.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_30.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_31.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_31.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_32.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_32.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_33.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_33.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_34.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_34.aln
+Exit value: 0
+**********write**********
+Command: /usr/bin/muscle -in /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_35.fasta -clw -out /home/zliang/project/proteinsquare/ProteinGym/proteingym/baselines/gemme/gemme_tmp/M12612CI2IddG/101/101_35.aln
+Exit value: 143

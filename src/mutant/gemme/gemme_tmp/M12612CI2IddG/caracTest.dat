@@ -1,0 +1,6 @@
+*****************************************
+>101:A
+size	83						size of the sequence
+numAli	50						Number of sequences in alignment
+numMulti	50						Number of multiple alignment
+partition	2767;189;11;19						partition of sequences after PSI-BLAST+filtering
