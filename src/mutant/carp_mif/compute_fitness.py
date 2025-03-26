@@ -161,9 +161,10 @@ def main():
         model_scores = np.concatenate(model_scores)
     else:
         model_scores = calc_fitness(model=model, DMS_data=DMS_data, tokenizer=tokenizer, mode=args.fitness_computation_mode, target_seq=target_seq, pdb_file=None, model_name=args.model_name)
-
-    DMS_data[args.model_name+'_score']=model_scores
-    DMS_data[['mutant',args.model_name+'_score','DMS_score']].to_csv(scoring_filename, index=False)
+    
+    model_score_column =args.model_name.split('/')[-1].split('.')[0]+'_score'
+    DMS_data[model_score_column]=model_scores
+    DMS_data[['mutant',model_score_column,'fitness_score']].to_csv(scoring_filename, index=False)
     # spearman, _ = spearmanr(DMS_data[args.model_name+'_score'], DMS_data['DMS_score'])
 
     # if not os.path.exists(args.performance_file) or os.stat(args.performance_file).st_size==0:
